@@ -1,5 +1,6 @@
-,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
-0,London,51.51,-0.13,277.15,86,75,2.6,GB,1607462371
-1,New York,40.71,-74.01,277.04,51,20,5.7,US,1607462824
-2,Miami,25.77,-80.19,290.37,33,1,5.1,US,1607462634
-3,San Diego,32.72,-117.16,300.15,13,75,2.6,US,1607462674
+,City,Latitude,Longitude,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+0,London,51.51,-0.13,279.15,81,100,2.6,GB,1607540407
+1,New York,40.71,-74.01,274.15,80,90,1.5,US,1607540366
+2,Miami,25.77,-80.19,292.04,45,1,6.2,US,1607540097
+3,San Diego,32.72,-117.16,295.37,20,40,2.1,US,1607540515
+4,Sydney,-33.87,151.21,291.15,77,75,1.78,AU,1607540128
